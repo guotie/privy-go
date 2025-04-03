@@ -1,5 +1,7 @@
 # privy-go
 
+A simple golang client for Privy wallet.
+
 ## Install
 ```bash
 go get github.com/guotie/privy-go
